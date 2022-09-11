@@ -1,4 +1,4 @@
-baseURL = 'http://<USERNAME>.github.io/jim-smit/'
+baseURL = 'http://jimmsmit.github.io'
 languageCode = 'en-us'
 title = 'Jim Smit'
 theme = "beautifulhugo"
